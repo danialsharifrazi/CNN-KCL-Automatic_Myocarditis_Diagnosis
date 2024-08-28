@@ -1,3 +1,4 @@
+# CNN-KCL-Automatic_Myocarditis_Diagnosis
 The code belongs to the paper entitled "CNN-KCL: automatic myocarditis diagnosis using convolutional neural network combined with k-means clustering".
 If you use the code, please cite our paper too.
 
