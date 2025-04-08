@@ -30,7 +30,7 @@ def clusteringFunc(x_data,y_data,k):
     y_n.extend(y_s2)
     y=np.array(y_n)
 
-
+    #
     normals=list(normals)
     sicks=list(sicks)
     normals.extend(sicks)
